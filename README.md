@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mayakhan719
+- 👋 Hi, I’m @Mayakhan
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on coding.
